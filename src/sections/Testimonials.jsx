@@ -1,11 +1,11 @@
 import React from "react";
 import CardServiceTestimonials from "../components/CardServiceTestimonials";
 const parrafos = [
-  "La plataforma de InnovaTech ha transformado por completo la forma en que gestionamos nuestros pagos. Es intuitiva, rápida y el soporte es insuperable.",
-  "Nunca pensé que la gestión financiera podría ser tan sencilla. Gracias a InnovaTech, hemos optimizado nuestro tiempo y evitado errores costosos.",
+  "La plataforma de IsaiX ha transformado por completo la forma en que gestionamos nuestros pagos. Es intuitiva, rápida y el soporte es insuperable.",
+  "Nunca pensé que la gestión financiera podría ser tan sencilla. Gracias a IsaiX, hemos optimizado nuestro tiempo y evitado errores costosos.",
 ];
 const autores = [
-  "Ana Gómez, CEO de InnovaTech",
+  "Jhonatan Isai, CEO de IsaiX",
   "Luis Morales, Director de Finanzas en Global Solutions",
 ];
 export const Testimonials = () => {
