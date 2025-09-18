@@ -4,6 +4,7 @@ import { Navbar } from "./components/Navbar";
 import { Hero } from "./sections/Hero";
 import { Features } from "./sections/Features";
 import { Testimonials } from "./sections/Testimonials";
+import { Contact } from "./sections/Contact";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Hero></Hero>
       <Features></Features>
       <Testimonials></Testimonials>
+      <Contact></Contact>
     </>
   );
 }

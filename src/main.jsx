@@ -6,6 +6,7 @@ import "./styles/Hero.css";
 import "./styles/CardService.css";
 import "./styles/Feature.css";
 import "./styles/Testimonials.css";
+import "./styles/Contact.css";
 import App from "./App";
 
 createRoot(document.getElementById("root")).render(

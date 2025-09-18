@@ -1,0 +1,15 @@
+.contat__container {
+    padding: 7em;
+    text-align: center;
+}
+
+.contat_title {
+    font-size: 3em;
+    color: #fff;
+    margin: 1.2em 0;
+}
+
+.contat__parrafo {
+    font-size: 1.4em;
+    margin: .4em 0;
+}
