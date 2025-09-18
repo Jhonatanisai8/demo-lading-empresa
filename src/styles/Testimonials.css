@@ -1,0 +1,28 @@
+.testimonials__container {
+    background-color: #000;
+}
+
+.testimonial__title {
+    font-size: 2em;
+    padding-top: 2em;
+    color: #fff;
+    text-align: center;
+}
+
+.testimonials_card {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 10em;
+}
+
+.card_testimonio {
+    border-radius: 1em;
+    padding: 3em;
+}
+.card__testimonio--parrafo{
+    justify-content: end;
+}
+.card__testimonio--autor {
+    color: #98CE00;
+    padding-top: 1em;
+}
