@@ -1,0 +1,30 @@
+.navbar {
+    /* background-color: #98CE00; */
+    display: flex;
+    border-bottom: 1px solid #757780;
+    padding: 1em;
+}
+
+.navbar__title {
+    width: 60%;
+    font-size: 3em;
+    text-align: start;
+    margin-left: 2em;
+}
+
+.navbar__ul {
+    display: flex;
+    width: 40%;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.navbar__ul--item {
+    font-size: 1.5em;
+    text-align: center;
+    padding: .5em;
+}
+
+.navbar__ul--item:hover {
+    cursor: pointer;
+}
