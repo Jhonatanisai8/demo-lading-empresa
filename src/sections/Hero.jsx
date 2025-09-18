@@ -1,4 +1,5 @@
 import React from "react";
+import { Button } from "../components/Button";
 
 const subtitulo =
   "Simplifica tus Pagos. Gestiona tus transacciones sin complicaciones.";
@@ -12,6 +13,7 @@ export const Hero = () => {
           <h2 className="section__subtitle">{subtitulo}</h2>
           <p className="section__parrafo">{parrafo}</p>
         </header>
+        <Button titulo={"Empieza tu Prueba Gratuita"}></Button>
       </section>
     </>
   );

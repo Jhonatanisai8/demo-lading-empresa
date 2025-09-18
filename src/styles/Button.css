@@ -1,0 +1,10 @@
+.buton__app {
+    padding: 1em;
+    width: 15em;
+    display: block;
+    margin: 0 auto;
+    margin-top: 2em;
+    border-radius: 1em;
+    font-size: 1.1rem;
+    border: none;
+}
