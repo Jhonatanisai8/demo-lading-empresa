@@ -1,5 +1,6 @@
 .testimonials__container {
     background-color: #000;
+    padding: 3em 0;
 }
 
 .testimonial__title {
@@ -7,6 +8,7 @@
     padding-top: 2em;
     color: #fff;
     text-align: center;
+    margin-bottom: 1.5em;
 }
 
 .testimonials_card {
@@ -19,9 +21,11 @@
     border-radius: 1em;
     padding: 3em;
 }
-.card__testimonio--parrafo{
+
+.card__testimonio--parrafo {
     justify-content: end;
 }
+
 .card__testimonio--autor {
     color: #98CE00;
     padding-top: 1em;
