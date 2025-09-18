@@ -15,3 +15,19 @@
     align-items: center;
     background-color: #fff;
 }
+
+@media (max-width: 768px) {
+  .main__title {
+    font-size: 2em;
+    padding-top: 0.5em;
+  }
+
+  .container {
+    padding: 0 1em;
+  }
+
+  .main__cards {
+    flex-direction: column;
+    gap: 1em;
+  }
+}

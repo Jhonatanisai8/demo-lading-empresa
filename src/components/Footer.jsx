@@ -5,7 +5,7 @@ export const Footer = () => {
     <>
       <footer className="footer__container">
         <p className="footer__parrafo">
-          © 2024 Jhon's. Todos los derechos reservados.
+          © 2025 Jhonatan. Todos los derechos reservados.
         </p>
       </footer>
     </>

@@ -28,3 +28,30 @@
 .navbar__ul--item:hover {
     cursor: pointer;
 }
+
+@media (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: center;
+    padding: 0.5em;
+  }
+
+  .navbar__title {
+    width: 100%;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 0;
+    margin-bottom: 1em;
+  }
+
+  .navbar__ul {
+    width: 100%;
+    flex-direction: column;
+    margin-top: 0.5em;
+  }
+
+  .navbar__ul--item {
+    font-size: 1.2em;
+    padding: 0.5em 0;
+  }
+}

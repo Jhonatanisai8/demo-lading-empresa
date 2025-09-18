@@ -13,3 +13,19 @@
     font-size: 1.4em;
     margin: .4em 0;
 }
+
+@media (max-width: 768px) {
+  .contat__container {
+    padding: 2em 1em;
+  }
+
+  .contat_title {
+    font-size: 2em;
+    margin: 0.5em 0;
+  }
+
+  .contat__parrafo {
+    font-size: 1.1em;
+    margin: 0.3em 0;
+  }
+}
