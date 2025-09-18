@@ -1,4 +1,5 @@
 import React from "react";
+import { Button } from "../components/Button";
 
 const titulo = "¿Listo para transformar tus pagos?";
 const subtitulo =
@@ -12,6 +13,7 @@ export const Contact = () => {
           <h2 className="contat_title">{titulo}</h2>
         </header>
         <p className="contat__parrafo">{subtitulo}</p>
+        <Button titulo={"Registrate ahora y empieza"}></Button>
       </section>
     </>
   );
